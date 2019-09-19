@@ -1,0 +1,30 @@
+[
+    { 
+        "nama": "Hermawan Luthfi Nugroho",
+        "umur": 22,
+        "nrp": "21414",
+        "lulus": true,
+        "hobi": [
+                    "coding", 
+                    "gaming" 
+        ],
+        "pembimbing": {
+            "pembimbing1" : "Eko",
+            "pembimbing2" : "Hari"
+        }
+    },
+    { 
+        "nama": "Hermawan Luthfi Nugroho",
+        "umur": 22,
+        "nrp": "21414",
+        "lulus": true,
+        "hobi": [
+                    "coding", 
+                    "gaming" 
+        ],
+        "pembimbing": {
+            "pembimbing1" : "Eko",
+            "pembimbing2" : "Hari"
+        }
+    }   
+]
